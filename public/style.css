@@ -11,12 +11,12 @@
  }
 
  .profile img {
-   width: 100px;
-   height: 100px;
-   border-radius: 50px;
+   width: 10px;
+   height: 10px;
+   border-radius: 10px;
  }
 
- html { 
+ html {
   background: url('http://bit.ly/flickr-img') no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
