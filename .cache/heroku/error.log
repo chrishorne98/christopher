@@ -1,0 +1,11 @@
+2016/05/18 04:06:01 heroku-cli/5.1.8-52a89fa (linux-amd64) go1.6.2 /home/nitrous/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/18 04:06:01  ▸    Error: Unexpected flag --background
+ ▸    Usage: heroku update [CHANNEL]
+ ▸    This command does not take any flags.
+ ▸    
+ ▸    See more information with heroku update --help
+2016/05/18 04:06:01 triggering background update
+2016/05/18 04:06:01 heroku-cli/5.1.8-52a89fa (linux-amd64) go1.6.2 /home/nitrous/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/18 04:06:13 heroku-cli/5.1.8-52a89fa (linux-amd64) go1.6.2 /home/nitrous/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/18 04:06:13 heroku-cli/5.1.8-52a89fa (linux-amd64) go1.6.2 /home/nitrous/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/18 04:06:13 heroku-cli/5.1.8-52a89fa (linux-amd64) go1.6.2 /home/nitrous/.local/share/heroku/cli/bin/heroku cmd: create
